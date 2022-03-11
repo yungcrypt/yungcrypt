@@ -1,5 +1,9 @@
-### Hi there 👋
+### Current Objectives:
+* Solana DAO
+* Terra Development
+* Open Source Blockchain tooling
 
+collab: pbarrett@triptychlabs.io
 <!--
 **yungcrypt/yungcrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
