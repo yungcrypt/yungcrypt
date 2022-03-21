@@ -1,7 +1,7 @@
 ### Current Objectives:
 * Solana DAO
 * Terra Development
-* Open Source Blockchain tooling
+* Web3 metaverse interactions
 
 collab: pbarrett@triptychlabs.io
 <!--
