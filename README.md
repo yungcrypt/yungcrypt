@@ -1,9 +1,8 @@
 ### Current Objectives:
 * Solana DAO
-* Terra Development
+* Solana Pay E-commerce store
 * Web3 metaverse interactions
 
-collab: pbarrett@triptychlabs.io
 <!--
 **yungcrypt/yungcrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
